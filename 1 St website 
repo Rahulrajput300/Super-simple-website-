@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Photography Website</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Rajput photography and electronic </h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <section id="home">
+    <h2>we are collecting memories !</h2>
+    <p>we do wedding shoot..........................❤️
+    pre-wedding  shoot.................................❤️
+    cinematic shoot......................................❤️
+    anniversary shoot..................................❤️</p>
+  </section>
+  
+  <section id="gallery">
+    <h2>Rajput photography 📹📹 </h2>
+    </div>
+  </section>
+  
+  <section id="about">
+    <h2>About</h2>
+    <p>    Capturing the story of your life, one chapter at a time
+Transforming views.</p>
+  </section>
+  
+  <section id="contact">
+    <h2>Contact.  📞📞</h2>
+    <p> address: Rajput photography and electronic  shivaji chowk ladswangi sambhajinagagar </p>
+    <p>Email📧:rahulrajput97911@gmail.com</p>
+    <p>Phone:📞+919421313755,+917020495451+918830738642
+    </p>
+  </section>
+  
+  <footer>
+    <p>Thanks for visiting 🙏🙏</p>
+  </footer>
+</body>
+</html>
